@@ -109,6 +109,7 @@ footer {
   min-height: 260px;
   background-color: var(--dark);
   margin-top: 100vh;
+  padding: 16px;
 }
 
 footer .content {
